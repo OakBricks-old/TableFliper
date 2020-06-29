@@ -1,0 +1,14 @@
+V. 1
+Inital release
+V. 1.1
+Added support for more SKUs - Starter(NEEDS ACER SLP/SLIC TABLES AND CERTS), Pro, Home (Standard and Premium)
+Added installers for more SKUs
+Added ACER Files
+Added ACER Keys for Starter
+V.1.2 and GUI 1.0
+Main files
+Now forces Admin rights
+--GUI--
+New GUI is based on VB.NET
+Needs files to be extracted to C:\TableFliper to work or else it will crash
+GUI will also work with VMware as it installs the Certs and Keys
