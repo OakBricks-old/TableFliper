@@ -1,0 +1,11 @@
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\bin\Debug\TableFliper Vista.exe
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\bin\Debug\TableFliper Vista.pdb
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\bin\Debug\TableFliper Vista.xml
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper Vista.vbprojAssemblyReference.cache
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper_Vista.TableFlip.resources
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper_Vista.Resources.resources
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper Vista.vbproj.GenerateResource.cache
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper Vista.vbproj.CoreCompileInputs.cache
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper Vista.exe
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper Vista.xml
+C:\Users\Andy Cruz\source\repos\TableFliper Vista\TableFliper Vista\obj\Debug\TableFliper Vista.pdb
